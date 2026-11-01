@@ -4,4 +4,4 @@ Hands-on labs in **Okta Workforce Identity Cloud**, documenting identity and acc
 
 | # | Lab | Topics | Status |
 |---|---|---|---|
-| 1 | [SCIM Provisioning](./scim-provisioning/) | SCIM 2.0, lifecycle management, group push | 🚧 In progress |
+| 1 | [SCIM Provisioning](./scim-provisioning/) | SCIM 2.0, joiner/mover/leaver, custom SCIM connector, System Log troubleshooting | ✅ Complete |
